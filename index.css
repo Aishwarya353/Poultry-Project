@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+}
+header h1 {
+  background-color: aliceblue;
+  width: 25px;
+  height: 50px;
+}
